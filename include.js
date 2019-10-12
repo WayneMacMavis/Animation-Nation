@@ -708,6 +708,13 @@ let cards = [
     author: "DDuplinszki",
     githubLink: "https://github.com/DDuplinszki"
   }
+  {
+    artName: "Mystical Hacktoberfest",
+    pageLink: "./Art/Wayne/index.html",
+    imageLink: "./Art/Wayne/hacktoberfest.png",
+    author: "WayneMacMavis",
+    githubLink: "https://github.com/WayneMacMavis"
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
